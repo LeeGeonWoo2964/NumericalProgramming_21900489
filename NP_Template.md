@@ -8,6 +8,34 @@
   
 ## method 1 formular
 
+## Main Idea
+
+## Error Condition
+
+## method 1 Code
+
+## Ex code
+
+==========
+
+## method 1 formular
+
+## Main Idea
+
+## Error Condition
+
+## method 1 Code
+
+## Ex code
+
+======
+
+## method 1 formular
+
+## Main Idea
+
+## Error Condition
+
 ## method 1 Code
 
 ## Ex code

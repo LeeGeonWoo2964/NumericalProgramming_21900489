@@ -5,10 +5,14 @@
 ## Kind of method (이를 위한 방법)
   ### method 1
   $\vdots$
-  
-### method 1 formular
+
+=====================
+
+### method 1
 
 ### Main Idea
+
+### method 1 formular
 
 ### Error Condition
 
@@ -16,13 +20,14 @@
 
 ### Ex code
 
-==========
-  ### method 1
-  $\vdots$
-  
-### method 1 formular
+
+=====================
+
+### method 1
 
 ### Main Idea
+
+### method 1 formular
 
 ### Error Condition
 
@@ -30,14 +35,15 @@
 
 ### Ex code
 
-==========
 
-  ### method 1
-  $\vdots$
-  
-### method 1 formular
+
+=====================
+
+### method 1
 
 ### Main Idea
+
+### method 1 formular
 
 ### Error Condition
 
@@ -45,4 +51,3 @@
 
 ### Ex code
 
-==========

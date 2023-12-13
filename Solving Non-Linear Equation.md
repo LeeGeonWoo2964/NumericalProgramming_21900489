@@ -70,4 +70,24 @@ double tol: 오차 허용값
 }
 ```
 
+## Example 
+```C
+double x0 = 3;
+double tol = 0.000001;
+double Result = newtonRaphson(func, dfunc, x0, tol);
+//define func,dfunc
+
+double func (double xn){
+~~
+return Result;
+}
+
+double dfunc (double xn){
+~~
+return Result;
+}
+
+```
+
+
  

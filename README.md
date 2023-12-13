@@ -1,7 +1,6 @@
 # NumericalProgramming_21900489
  ## MyNP.h
- ### Error
- ### Solviong Nonlinear Equations
+ ### Solving Nonlinear Equations
  ### Differentiation
  ### Integration
  ### Interpolation
@@ -18,4 +17,6 @@
    
  ## MyMatrix.h
   .....
- 
+
+ # Solving Nonlinear Equations
+ - 

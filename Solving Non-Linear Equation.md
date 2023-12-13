@@ -30,8 +30,9 @@ $|\frac{x_{k+1}-x_{k}}{x_{k}}|<=ε(ep)$ or $|f(x_{k})|<=δ(delta)$
 
 $x_{k+1},x_{k}$의 차이가 유의미하지 않을 때 까지 반복한다.
 $|f(x_{k})|$가 거의 0과 같으면 해를 찾았다고 본다. 
-```c
 
+## Code
+```c
 double newtonRaphson(double func(double x), double dfunc(double x), double x0, double tol) {
 /*define input parameter
 double func(double x): 풀고자 하는 수식

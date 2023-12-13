@@ -6,36 +6,46 @@
   ### method 1
   $\vdots$
   
-## method 1 formular
+### method 1 formular
 
-## Main Idea
+### Main Idea
 
-## Error Condition
+### Error Condition
 
-## method 1 Code
+### method 1 Code
 
-## Ex code
+### Ex code
 
 ==========
 
-## method 1 formular
+## Kind of method (이를 위한 방법)
+  ### method 1
+  $\vdots$
+  
+### method 1 formular
 
-## Main Idea
+### Main Idea
 
-## Error Condition
+### Error Condition
 
-## method 1 Code
+### method 1 Code
 
-## Ex code
+### Ex code
 
-======
+==========
 
-## method 1 formular
+## Kind of method (이를 위한 방법)
+  ### method 1
+  $\vdots$
+  
+### method 1 formular
 
-## Main Idea
+### Main Idea
 
-## Error Condition
+### Error Condition
 
-## method 1 Code
+### method 1 Code
 
-## Ex code
+### Ex code
+
+==========

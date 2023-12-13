@@ -17,8 +17,6 @@
 ### Ex code
 
 ==========
-
-## Kind of method (이를 위한 방법)
   ### method 1
   $\vdots$
   
@@ -34,7 +32,6 @@
 
 ==========
 
-## Kind of method (이를 위한 방법)
   ### method 1
   $\vdots$
   
